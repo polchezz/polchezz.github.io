@@ -1,0 +1,25 @@
+body {
+    background-color:#bisque;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color:#lightpink;
+}
+main {
+    background-color:#ivory;
+}
+h1 {
+    color:plum;
+}
+h2 {
+    color:thistle;
+}
+h3 {
+    color:tan;
+}
+h4 {
+    color:violet;
+}
